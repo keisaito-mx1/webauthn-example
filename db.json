@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "user1",
+      "password": "user1"
+    },
+    {
+      "id": "user2",
+      "password": "user2"
+    }
+  ],
+  "passkey": [
+    {
+      "id": "POtha1_ZdvRmT8Cb4bwAqw",
+      "credentialId": "POtha1_ZdvRmT8Cb4bwAqw",
+      "credentialPublicKey": "pAEBAycgBiFYIFScXKwJazHPSTaYWs4pFvhF5a5/64eAWgueygPBRCiK",
+      "counter": 2,
+      "name": "Mac OSのChrome",
+      "credentialDeviceType": "singleDevice",
+      "credentialBackedUp": false,
+      "userId": "admin",
+      "createdAt": "2024-08-01T23:55:38.461Z",
+      "updatedAt": "2024-08-01T23:55:38.461Z"
+    }
+  ]
+}
